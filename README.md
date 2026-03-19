@@ -14,6 +14,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0047-permutations-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,4 +31,9 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0047-permutations-ii) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
