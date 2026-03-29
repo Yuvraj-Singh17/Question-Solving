@@ -8,6 +8,7 @@
 | [0020-valid-parentheses](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0022-generate-parentheses) |
 | [0394-decode-string](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0394-decode-string) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
