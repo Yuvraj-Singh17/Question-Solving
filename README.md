@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
@@ -86,6 +87,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1922-count-good-numbers) |
@@ -108,5 +110,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
