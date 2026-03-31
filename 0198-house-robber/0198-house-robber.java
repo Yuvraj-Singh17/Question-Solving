@@ -1,18 +1,21 @@
 class Solution {
     public int rob(int[] nums) {
-        int[] arr = new int[nums.length+1];
-        Arrays.fill(arr , 0);
+        int[] arr = new int[101];
+        Arrays.fill(arr , -1);
         int n = nums.length;
-
-        arr[0] = 0;
-        arr[1] = nums[0];
-        
-        for(int i = 2 ; i <= n ; i++){
-            int steal = nums[i-1] + arr[i-2];
-            int skip = arr[i-1];
-
-            arr[i] = Math.max(steal , skip);
+        return solve(nums , 0 , n , arr);
+    }
+    public static int solve(int[] nums, int i, int n , int[] arr){
+        if(i >= n){
+            return 0;
         }
-        return arr[n];
+
+        if(arr[i] != -1) return arr[i];
+
+        int steal = nums[i] + solve(nums,  i+2 , n , arr);
+        int skip = solve(nums, i+1 , n , arr);
+
+        arr[i] = Math.max(steal , skip);
+        return arr[i];
     }
 }
