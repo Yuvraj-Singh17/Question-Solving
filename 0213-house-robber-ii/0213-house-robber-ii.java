@@ -1,33 +1,29 @@
 class Solution {
     public int rob(int[] nums) {
         int n = nums.length;
+
         if(n == 1) return nums[0];
-        if(n == 2) return Math.max(nums[0],nums[1]);
 
-        int[] arr = new int[101];
-        Arrays.fill(arr , -1);
+        int[] t = new int[n+1];
 
-        // taking 0th house
-        int t0 = solve(nums , 0 , n-2 , arr);
+        t[0] = 0;
 
-        Arrays.fill(arr , -1);
-        //take 1st index house
-        int t1 = solve(nums , 1 , n-1 , arr);
-
-        return Math.max(t1 , t0);
-
-    }
-    public static int solve(int[] nums , int i , int n ,int[] arr){
-        if(i > n) return 0;
-        if(arr[i] != -1){
-            return arr[i];
+        for(int i = 1 ; i <= n-1 ; i++){
+            int skip = t[i-1];
+            int take = nums[i-1] + (i-2 >= 0 ? t[i-2]:0);
+            t[i] = Math.max(skip , take);
         }
+        int res1 = t[n-1];
 
-        int steal = nums[i] + solve(nums , i+2 , n , arr);
-        int skip = solve(nums , i+1 , n , arr);
+        Arrays.fill(t , 0);
 
-        arr[i] = Math.max(steal , skip);
-
-        return arr[i];
+        t[0] = 0;
+        for(int i = 2 ; i <= n ; i++){
+            int skip = t[i-1];
+            int take = nums[i-1] + (i-2 >= 0 ? t[i-2]:0);
+            t[i] = Math.max(skip , take);
+        }
+        int res2 = t[n];
+        return Math.max(res1 , res2);
     }
 } 
