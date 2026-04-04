@@ -97,6 +97,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1823-find-the-winner-of-the-circular-game) |
