@@ -6,6 +6,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0006-zigzag-conversion) |
+| [0014-longest-common-prefix](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0022-generate-parentheses) |
 | [0394-decode-string](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0394-decode-string) |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0035-search-insert-position) |
@@ -127,4 +129,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0035-search-insert-position) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
