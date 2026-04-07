@@ -1,20 +1,4 @@
 class Solution {
-    int[][] dp;
-    public int solve(String[] words , int i , int p){
-        if(i >= words.length) return 0;
-        if(p != -1 && dp[i][p] != -1){
-            return dp[i][p];
-        }
-        int take = 0;
-        if(p == -1 || isPred(words[p] , words[i])){
-            take = 1 + solve(words , i+1 , i);
-        }
-        int skip = solve(words , i+1 , p);
-        if(p != -1){
-            dp[i][p] = Math.max(skip , take);
-        }
-        return Math.max(skip , take);
-    }
     public boolean isPred(String word1 , String word2){
         int M = word1.length();
         int N = word2.length();
@@ -34,11 +18,21 @@ class Solution {
         return i == M;
     }
     public int longestStrChain(String[] words) {
-        dp = new int[1001][1001];
-        for(int[] i : dp){
-            Arrays.fill(i , -1);
-        }
+        int[] dp = new int[words.length];
+
+        Arrays.fill(dp , 1);
         Arrays.sort(words, (s1, s2) -> Integer.compare(s1.length(), s2.length()));
-        return solve(words , 0 , -1);
+
+        int max = 1;
+        for(int i = 0 ; i < words.length ; i++){
+            for(int j = 0 ;  j < i ; j++){
+                if(isPred(words[j] , words[i])){
+                    dp[i] = Math.max(dp[i] , dp[j]+1);
+                    max = Math.max(dp[i] , max);
+                }
+            }
+        }
+        return max;
+
     }
 }
