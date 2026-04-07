@@ -10,6 +10,7 @@
 | [0020-valid-parentheses](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0022-generate-parentheses) |
 | [0394-decode-string](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0394-decode-string) |
+| [1048-longest-string-chain](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1048-longest-string-chain) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Dynamic Programming
 |  |
@@ -21,6 +22,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0646-maximum-length-of-pair-chain) |
+| [1048-longest-string-chain](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1048-longest-string-chain) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Backtracking
 |  |
@@ -36,6 +38,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0141-linked-list-cycle) |
+| [1048-longest-string-chain](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1048-longest-string-chain) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2094-finding-3-digit-even-numbers) |
 ## Linked List
 |  |
@@ -49,6 +52,7 @@
 | [0016-3sum-closest](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0018-4sum) |
 | [0141-linked-list-cycle](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0141-linked-list-cycle) |
+| [1048-longest-string-chain](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1048-longest-string-chain) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3643-flip-square-submatrix-vertically) |
 ## Array
 |  |
@@ -66,6 +70,7 @@
 | [0213-house-robber-ii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0646-maximum-length-of-pair-chain) |
+| [1048-longest-string-chain](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1048-longest-string-chain) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2094-finding-3-digit-even-numbers) |
@@ -77,6 +82,7 @@
 | [0018-4sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0047-permutations-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0646-maximum-length-of-pair-chain) |
+| [1048-longest-string-chain](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1048-longest-string-chain) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2094-finding-3-digit-even-numbers) |
 ## Matrix
 |  |
