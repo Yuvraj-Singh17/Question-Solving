@@ -26,6 +26,7 @@
 | [1048-longest-string-chain](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1048-longest-string-chain) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2094-finding-3-digit-even-numbers) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
 |  |
@@ -150,6 +152,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0035-search-insert-position) |
 | [0300-longest-increasing-subsequence](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0300-longest-increasing-subsequence) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Trie
 |  |
 | ------- |
@@ -170,4 +173,12 @@
 |  |
 | ------- |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2926-maximum-balanced-subsequence-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2926-maximum-balanced-subsequence-sum) |
 <!---LeetCode Topics End-->
