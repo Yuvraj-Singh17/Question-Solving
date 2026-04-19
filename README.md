@@ -10,6 +10,7 @@
 | [0014-longest-common-prefix](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0043-multiply-strings) |
 | [0394-decode-string](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0394-decode-string) |
 | [1048-longest-string-chain](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1048-longest-string-chain) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -126,6 +127,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0509-fibonacci-number) |
@@ -143,6 +145,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0043-multiply-strings) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Sliding Window
 |  |
