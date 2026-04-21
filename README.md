@@ -46,6 +46,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0169-majority-element) |
 | [1048-longest-string-chain](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1048-longest-string-chain) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2094-finding-3-digit-even-numbers) |
 ## Linked List
@@ -79,6 +80,7 @@
 | [0047-permutations-ii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0300-longest-increasing-subsequence) |
@@ -98,6 +100,7 @@
 | [0018-4sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0368-largest-divisible-subset) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0646-maximum-length-of-pair-chain) |
 | [1048-longest-string-chain](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1048-longest-string-chain) |
@@ -172,6 +175,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -207,4 +211,8 @@
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
