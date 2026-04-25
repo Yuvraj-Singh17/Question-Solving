@@ -46,6 +46,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0169-majority-element) |
 | [1048-longest-string-chain](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1048-longest-string-chain) |
@@ -77,6 +78,7 @@
 | [0031-next-permutation](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0051-n-queens) |
