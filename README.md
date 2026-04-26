@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0152-maximum-product-subarray) |
@@ -64,6 +65,7 @@
 | [0016-3sum-closest](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0141-linked-list-cycle) |
 | [1048-longest-string-chain](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1048-longest-string-chain) |
@@ -79,6 +81,7 @@
 | [0035-search-insert-position](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0051-n-queens) |
@@ -132,6 +135,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0394-decode-string) |
 ## Math
 |  |
@@ -221,4 +225,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0169-majority-element) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
