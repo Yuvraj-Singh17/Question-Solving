@@ -86,6 +86,7 @@
 | [0047-permutations-ii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0135-candy](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0169-majority-element) |
@@ -136,6 +137,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0394-decode-string](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0394-decode-string) |
 ## Math
 |  |
@@ -229,4 +231,5 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
