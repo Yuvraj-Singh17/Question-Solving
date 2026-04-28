@@ -22,6 +22,7 @@
 | [0042-trapping-rain-water](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0213-house-robber-ii) |
@@ -87,6 +88,7 @@
 | [0051-n-queens](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0169-majority-element) |
@@ -118,6 +120,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0037-sudoku-solver) |
+| [0085-maximal-rectangle](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0085-maximal-rectangle) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3643-flip-square-submatrix-vertically) |
 ## Recursion
 |  |
@@ -138,6 +141,7 @@
 | [0020-valid-parentheses](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0085-maximal-rectangle) |
 | [0394-decode-string](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0394-decode-string) |
 ## Math
 |  |
@@ -232,4 +236,5 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
