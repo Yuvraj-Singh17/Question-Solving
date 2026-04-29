@@ -69,6 +69,7 @@
 | [0042-trapping-rain-water](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0141-linked-list-cycle) |
+| [0295-find-median-from-data-stream](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0295-find-median-from-data-stream) |
 | [1048-longest-string-chain](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1048-longest-string-chain) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3643-flip-square-submatrix-vertically) |
 ## Array
@@ -112,6 +113,7 @@
 | [0047-permutations-ii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0169-majority-element) |
+| [0295-find-median-from-data-stream](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0295-find-median-from-data-stream) |
 | [0368-largest-divisible-subset](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0368-largest-divisible-subset) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0646-maximum-length-of-pair-chain) |
 | [1048-longest-string-chain](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1048-longest-string-chain) |
@@ -196,6 +198,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0295-find-median-from-data-stream) |
 ## Merge Sort
 |  |
 | ------- |
@@ -237,4 +240,12 @@
 | [0042-trapping-rain-water](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0085-maximal-rectangle) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
