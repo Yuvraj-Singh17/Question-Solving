@@ -15,6 +15,7 @@
 | [0394-decode-string](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0394-decode-string) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1048-longest-string-chain](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1048-longest-string-chain) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Dynamic Programming
 |  |
@@ -34,6 +35,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0646-maximum-length-of-pair-chain) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1048-longest-string-chain](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1048-longest-string-chain) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2926-maximum-balanced-subsequence-sum) |
