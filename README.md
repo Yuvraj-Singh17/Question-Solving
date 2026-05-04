@@ -124,6 +124,7 @@
 | [0368-largest-divisible-subset](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0368-largest-divisible-subset) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0646-maximum-length-of-pair-chain) |
 | [1048-longest-string-chain](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1048-longest-string-chain) |
+| [2092-find-all-people-with-secret](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2092-find-all-people-with-secret) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2094-finding-3-digit-even-numbers) |
 ## Matrix
 |  |
@@ -233,6 +234,7 @@
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2092-find-all-people-with-secret](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2092-find-all-people-with-secret) |
 ## Binary Tree
 |  |
 | ------- |
@@ -256,4 +258,16 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0295-find-median-from-data-stream) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2092-find-all-people-with-secret) |
+## Union-Find
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2092-find-all-people-with-secret) |
+## Graph Theory
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2092-find-all-people-with-secret) |
 <!---LeetCode Topics End-->
