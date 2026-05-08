@@ -110,6 +110,7 @@
 | [1048-longest-string-chain](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1048-longest-string-chain) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2094-finding-3-digit-even-numbers) |
 | [2402-meeting-rooms-iii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2402-meeting-rooms-iii) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2926-maximum-balanced-subsequence-sum) |
@@ -134,6 +135,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0085-maximal-rectangle) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3643-flip-square-submatrix-vertically) |
 ## Recursion
 |  |
@@ -197,6 +199,7 @@
 | [0035-search-insert-position](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0035-search-insert-position) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0300-longest-increasing-subsequence) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Trie
 |  |
@@ -239,6 +242,7 @@
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2092-find-all-people-with-secret) |
 ## Binary Tree
 |  |
@@ -266,10 +270,12 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2092-find-all-people-with-secret) |
 ## Union-Find
 |  |
 | ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2092-find-all-people-with-secret) |
 ## Graph Theory
 |  |
