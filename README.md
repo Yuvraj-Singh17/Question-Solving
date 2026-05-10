@@ -28,6 +28,7 @@
 | [0152-maximum-product-subarray](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0213-house-robber-ii) |
+| [0264-ugly-number-ii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0403-frog-jump) |
@@ -56,6 +57,7 @@
 | [0041-first-missing-positive](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0169-majority-element) |
+| [0264-ugly-number-ii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0264-ugly-number-ii) |
 | [1048-longest-string-chain](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1048-longest-string-chain) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2094-finding-3-digit-even-numbers) |
 | [2402-meeting-rooms-iii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2402-meeting-rooms-iii) |
@@ -164,6 +166,7 @@
 | [0007-reverse-integer](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0070-climbing-stairs) |
+| [0264-ugly-number-ii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -214,6 +217,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0023-merge-k-sorted-lists) |
+| [0264-ugly-number-ii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0295-find-median-from-data-stream) |
 | [2402-meeting-rooms-iii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2402-meeting-rooms-iii) |
 ## Merge Sort
