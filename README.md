@@ -83,6 +83,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0016-3sum-closest) |
@@ -199,6 +200,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0035-search-insert-position) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0300-longest-increasing-subsequence) |
@@ -211,6 +213,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
