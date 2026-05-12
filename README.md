@@ -216,6 +216,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0191-number-of-1-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -288,4 +289,8 @@
 |  |
 | ------- |
 | [2092-find-all-people-with-secret](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2092-find-all-people-with-secret) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
