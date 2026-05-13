@@ -60,6 +60,7 @@
 | [0169-majority-element](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0264-ugly-number-ii) |
 | [1048-longest-string-chain](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1048-longest-string-chain) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2094-finding-3-digit-even-numbers) |
 | [2402-meeting-rooms-iii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2402-meeting-rooms-iii) |
 ## Linked List
@@ -114,6 +115,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0646-maximum-length-of-pair-chain) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1048-longest-string-chain](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1048-longest-string-chain) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -237,6 +239,7 @@
 |  |
 | ------- |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1674-minimum-moves-to-make-array-complementary) |
 ## Binary Indexed Tree
 |  |
 | ------- |
