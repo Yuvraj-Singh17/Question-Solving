@@ -105,6 +105,7 @@
 | [0085-maximal-rectangle](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0198-house-robber) |
@@ -209,6 +210,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1970-last-day-where-you-can-still-cross) |
