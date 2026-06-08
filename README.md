@@ -83,6 +83,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0295-find-median-from-data-stream](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0295-find-median-from-data-stream) |
 | [1048-longest-string-chain](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1048-longest-string-chain) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3643-flip-square-submatrix-vertically) |
 ## Array
 |  |
@@ -121,6 +122,7 @@
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2094-finding-3-digit-even-numbers) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2402-meeting-rooms-iii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2402-meeting-rooms-iii) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3643-flip-square-submatrix-vertically) |
@@ -195,6 +197,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0043-multiply-strings) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2402-meeting-rooms-iii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2402-meeting-rooms-iii) |
 ## Sliding Window
 |  |
