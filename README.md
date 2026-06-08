@@ -11,6 +11,7 @@
 | [0020-valid-parentheses](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0043-multiply-strings) |
+| [0065-valid-number](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0065-valid-number) |
 | [0072-edit-distance](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0072-edit-distance) |
 | [0394-decode-string](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0394-decode-string) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0960-delete-columns-to-make-sorted-iii) |
