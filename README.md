@@ -26,6 +26,7 @@
 | [0070-climbing-stairs](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0085-maximal-rectangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0213-house-robber-ii) |
@@ -259,6 +260,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -266,6 +268,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -275,6 +278,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0543-diameter-of-binary-tree) |
 ## Counting
