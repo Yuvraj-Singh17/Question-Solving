@@ -269,6 +269,7 @@
 | [0110-balanced-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -281,6 +282,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0226-invert-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -296,6 +298,7 @@
 | [0110-balanced-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -325,6 +328,7 @@
 | [0100-same-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0226-invert-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2092-find-all-people-with-secret) |
