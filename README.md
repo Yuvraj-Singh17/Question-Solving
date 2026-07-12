@@ -13,6 +13,7 @@
 | [0043-multiply-strings](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0065-valid-number) |
 | [0072-edit-distance](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0072-edit-distance) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0394-decode-string) |
 | [0657-robot-return-to-origin](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0657-robot-return-to-origin) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -271,6 +272,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -285,6 +287,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -302,6 +305,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -321,6 +325,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -332,6 +337,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0404-sum-of-left-leaves) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1970-last-day-where-you-can-still-cross) |
