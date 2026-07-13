@@ -278,6 +278,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -313,6 +314,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -362,4 +364,8 @@
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0222-count-complete-tree-nodes) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
