@@ -16,20 +16,22 @@
 class Solution {
     public int kthSmallest(TreeNode root, int k) {
         ArrayList<Integer> arr = new ArrayList<>();
-        helper(root , arr);
+        helper(root , arr , k);
         int ans = 0;
-        for(int i = 0 ; i < k ; i++){
-            if(i + 1 == k){
-                ans = arr.get(i);
-            }
-        }
-        return ans;
+        // for(int i = 0 ; i < k ; i++){
+        //     if(i + 1 == k){
+        //         ans = arr.get(i);
+        //     }
+        // }
+        return arr.get(k-1);
 
     }
-    public void helper(TreeNode root , ArrayList<Integer> arr){
+    public void helper(TreeNode root , ArrayList<Integer> arr , int k){
         if(root == null) return;
-        helper(root.left , arr);
+        if(k == 0) return;
+        helper(root.left , arr , k);
         arr.add(root.val);
-        helper(root.right , arr);
+        helper(root.right , arr , k);
+        k--;
     }
 }
