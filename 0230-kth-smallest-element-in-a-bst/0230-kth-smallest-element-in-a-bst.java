@@ -17,7 +17,6 @@ class Solution {
     public int kthSmallest(TreeNode root, int k) {
         ArrayList<Integer> arr = new ArrayList<>();
         helper(root , arr);
-        Collections.sort(arr);
         int ans = 0;
         for(int i = 0 ; i < k ; i++){
             if(i + 1 == k){
@@ -29,8 +28,8 @@ class Solution {
     }
     public void helper(TreeNode root , ArrayList<Integer> arr){
         if(root == null) return;
-        arr.add(root.val);
         helper(root.left , arr);
+        arr.add(root.val);
         helper(root.right , arr);
     }
 }
