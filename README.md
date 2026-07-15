@@ -275,6 +275,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0404-sum-of-left-leaves) |
@@ -293,6 +294,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0404-sum-of-left-leaves) |
@@ -312,6 +314,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0404-sum-of-left-leaves) |
@@ -370,6 +373,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Number Theory
