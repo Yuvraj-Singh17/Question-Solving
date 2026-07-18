@@ -128,6 +128,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2094-finding-3-digit-even-numbers) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2402-meeting-rooms-iii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2402-meeting-rooms-iii) |
@@ -190,6 +191,7 @@
 | [0509-fibonacci-number](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1922-count-good-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Greedy
 |  |
@@ -383,5 +385,6 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
