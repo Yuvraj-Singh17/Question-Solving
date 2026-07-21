@@ -123,6 +123,7 @@
 | [0403-frog-jump](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0403-frog-jump) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0646-maximum-length-of-pair-chain) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1048-longest-string-chain](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1048-longest-string-chain) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -179,6 +180,7 @@
 | [0085-maximal-rectangle](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0394-decode-string](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0394-decode-string) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Math
 |  |
 | ------- |
@@ -287,6 +289,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -330,6 +333,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Counting
@@ -342,6 +346,7 @@
 | [0042-trapping-rain-water](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0085-maximal-rectangle) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
 | ------- |
@@ -386,6 +391,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Number Theory
 |  |
 | ------- |
