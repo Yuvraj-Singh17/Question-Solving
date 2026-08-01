@@ -4,7 +4,7 @@ class Solution {
         int j = arr.length-1;
         int ans1 = 0;
 
-        while(i <= j){
+        while(i < j){
             int h = Math.min(arr[i],arr[j]);
             int  l = j - i;
 
