@@ -83,6 +83,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0031-next-permutation) |
@@ -102,6 +103,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0031-next-permutation) |
@@ -142,6 +144,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0047-permutations-ii) |
