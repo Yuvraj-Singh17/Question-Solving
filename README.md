@@ -71,6 +71,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2094-finding-3-digit-even-numbers) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2402-meeting-rooms-iii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2402-meeting-rooms-iii) |
+| [3731-find-missing-elements](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -144,6 +145,7 @@
 | [2402-meeting-rooms-iii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2402-meeting-rooms-iii) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3643-flip-square-submatrix-vertically) |
+| [3731-find-missing-elements](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -160,6 +162,7 @@
 | [2092-find-all-people-with-secret](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2092-find-all-people-with-secret) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2094-finding-3-digit-even-numbers) |
 | [2402-meeting-rooms-iii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2402-meeting-rooms-iii) |
+| [3731-find-missing-elements](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
 | ------- |
