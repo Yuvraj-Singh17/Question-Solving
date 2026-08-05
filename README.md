@@ -330,6 +330,7 @@
 | [1970-last-day-where-you-can-still-cross](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2092-find-all-people-with-secret) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3310-remove-methods-from-project](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -389,6 +390,7 @@
 | [1970-last-day-where-you-can-still-cross](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2092-find-all-people-with-secret) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3310-remove-methods-from-project](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -398,6 +400,7 @@
 |  |
 | ------- |
 | [2092-find-all-people-with-secret](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2092-find-all-people-with-secret) |
+| [3310-remove-methods-from-project](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3310-remove-methods-from-project) |
 ## Bit Manipulation
 |  |
 | ------- |
