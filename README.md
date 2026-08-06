@@ -16,6 +16,7 @@
 | [0125-valid-palindrome](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0125-valid-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0394-decode-string) |
+| [0567-permutation-in-string](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0657-robot-return-to-origin) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1048-longest-string-chain](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1048-longest-string-chain) |
@@ -64,6 +65,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0264-ugly-number-ii) |
+| [0567-permutation-in-string](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1048-longest-string-chain) |
@@ -95,6 +97,7 @@
 | [0141-linked-list-cycle](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0295-find-median-from-data-stream](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0295-find-median-from-data-stream) |
+| [0567-permutation-in-string](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1048-longest-string-chain](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1048-longest-string-chain) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -230,6 +233,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0713-subarray-product-less-than-k) |
 ## Memoization
 |  |
