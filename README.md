@@ -22,6 +22,7 @@
 | [1048-longest-string-chain](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1048-longest-string-chain) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [0046-permutations](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0051-n-queens) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -211,6 +213,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Greedy
 |  |
@@ -218,6 +221,7 @@
 | [0011-container-with-most-water](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0135-candy) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0646-maximum-length-of-pair-chain) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Queue
 |  |
 | ------- |
@@ -428,5 +432,6 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
