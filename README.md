@@ -99,6 +99,7 @@
 | [0141-linked-list-cycle](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -134,6 +135,7 @@
 | [0169-majority-element](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0213-house-robber-ii) |
+| [0283-move-zeroes](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0403-frog-jump) |
