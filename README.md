@@ -39,6 +39,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0403-frog-jump) |
+| [0486-predict-the-winner](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0646-maximum-length-of-pair-chain) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -139,6 +140,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0403-frog-jump) |
+| [0486-predict-the-winner](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0486-predict-the-winner) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0646-maximum-length-of-pair-chain) |
 | [0713-subarray-product-less-than-k](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -186,6 +188,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0021-merge-two-sorted-lists) |
 | [0326-power-of-three](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1922-count-good-numbers) |
@@ -213,6 +216,7 @@
 | [0264-ugly-number-ii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0264-ugly-number-ii) |
 | [0326-power-of-three](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1922-count-good-numbers) |
@@ -439,4 +443,16 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
