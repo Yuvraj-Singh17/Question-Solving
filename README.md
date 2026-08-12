@@ -76,6 +76,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2094-finding-3-digit-even-numbers) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2402-meeting-rooms-iii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2402-meeting-rooms-iii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
@@ -156,6 +157,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2402-meeting-rooms-iii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2402-meeting-rooms-iii) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2926-maximum-balanced-subsequence-sum) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3643-flip-square-submatrix-vertically) |
 | [3731-find-missing-elements](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -249,6 +251,7 @@
 | [0567-permutation-in-string](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1004-max-consecutive-ones-iii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Memoization
 |  |
 | ------- |
