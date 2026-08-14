@@ -22,6 +22,7 @@
 | [1048-longest-string-chain](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1048-longest-string-chain) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
@@ -77,6 +78,7 @@
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2402-meeting-rooms-iii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2402-meeting-rooms-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
@@ -252,6 +254,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Memoization
 |  |
 | ------- |
