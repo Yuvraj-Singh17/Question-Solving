@@ -79,6 +79,7 @@
 | [2402-meeting-rooms-iii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2402-meeting-rooms-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
@@ -160,6 +161,7 @@
 | [2402-meeting-rooms-iii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2402-meeting-rooms-iii) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3643-flip-square-submatrix-vertically) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3731-find-missing-elements) |
