@@ -7,6 +7,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0022-generate-parentheses) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0141-linked-list-cycle) |
@@ -219,6 +221,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/0264-ugly-number-ii) |
