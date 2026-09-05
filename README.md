@@ -170,6 +170,7 @@
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3904-smallest-stable-index-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -314,6 +315,7 @@
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [3903-smallest-stable-index-i](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Yuvraj-Singh17/Question-Solving/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
